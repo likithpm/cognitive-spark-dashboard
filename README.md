@@ -131,6 +131,7 @@ npm run build
 
 # Preview production build
 npm run preview
+```
 
 ---
-[Deploy to Vercel](https://vercel.com) | [View Live Demo](https://your-domain.com)
+***Vercel: https://cognitive-spark-dashboard.vercel.app/
